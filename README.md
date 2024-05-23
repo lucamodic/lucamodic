@@ -1,15 +1,15 @@
 
 <!-- Introduction Section -->
-<div align="center">
+<div align="left">
   <h1>Hi there, I'm Luca! 👋</h1>
   <p>Welcome to my profile. I am a back-end developer with knowledge of both front-end and back-end tecnologies.</p>
 </div>
 <!-- Languages and Tools Section -->
-<div align="center">
+<div align="left">
   <h2>Languages and Tools</h2>
 </div>
 
-<div align="center">
+<div align="left">
   <div>
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" alt="CSS" width="50" height="50">
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="JavaScript" width="50" height="50">
@@ -32,7 +32,7 @@
 
 
 <!-- University Repositories Section -->
-<div align="center">
+<div align="left">
   <h2>University Projects</h2>
   <div>
     <a href="https://github.com/lucamodic/batallaspokemons"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucamodic&repo=batallaspokemons" alt="batallaspokemons"></a>
@@ -41,7 +41,7 @@
 </div>
 
 <!-- Personal Learning Repositories Section -->
-<div align="center">
+<div align="left">
   <h2>Personal Learning Repositories</h2>
   <div>
     <a href="https://github.com/lucamodic/Chat-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucamodic&repo=Chat-app" alt="Chat-app"></a>
