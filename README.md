@@ -54,7 +54,7 @@
 
 <!-- Stats Card Section -->
 <div align="left">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamodic&hide=contribs,prs)
+  ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=lucamodic&show_icons=true&theme=dracula)
 </div>
 
 
