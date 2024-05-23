@@ -4,12 +4,6 @@
   <h1>Hi there, I'm Luca! 👋</h1>
   <p>Welcome to my profile. I am a back-end developer with knowledge of both front-end and back-end tecnologies.</p>
 </div>
-
-<!-- Skills Section -->
-<div align="center">
-  <h2>Skills</h2>
-</div>
-
 <!-- Languages and Tools Section -->
 <div align="center">
   <h2>Languages and Tools</h2>
