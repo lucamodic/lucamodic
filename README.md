@@ -52,4 +52,9 @@
   </div>
 </div>
 
+<!-- Stats Card Section -->
+<div align="left">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucamodic&hide=contribs,prs)
+</div>
+
 
