@@ -53,8 +53,6 @@
 </div>
 
 <!-- Stats Card Section -->
-<div align="left">
-  ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=lucamodic&show_icons=true&theme=dracula)
-</div>
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=lucamodic&show_icons=true&theme=dracula)
 
 
