@@ -52,3 +52,13 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" alt="AWS" width="50" height="50">
   </div>
 </div>
+
+
+<!-- Repositories Section -->
+<div align="center">
+  <h2>Repositories</h2>
+  <div>
+    <a href="https://github.com/lucamodic/batallaspokemons"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucamodic&repo=batallaspokemons" alt="batallaspokemons"></a>
+    <a href="https://github.com/lucamodic/TP-FINAL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucamodic&repo=TP-FINAL" alt="TP-FINAL"></a>
+  </div>
+</div>
