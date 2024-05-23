@@ -17,7 +17,7 @@
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" alt="Java" width="40" height="40">
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" alt="PHP" width="40" height="40">
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" alt="C#" width="40" height="40">
-    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js" width="40" height="40">
+    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js" width="35" height="40">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" alt="Typescript" width="40" height="40">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Framework" width="40" height="40">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png?f=webp" alt="jQuery" width="40" height="40">
