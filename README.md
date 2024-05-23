@@ -2,7 +2,7 @@
 <!-- Introduction Section -->
 <div align="center">
   <h1>Hi there, I'm Luca! 👋</h1>
-  <p>Welcome to my GitHub profile! I'm a software developer passionate about crafting innovative solutions.</p>
+  <p>Welcome to my profile. I am a back-end developer with knowledge of both front-end and back-end tecnologies.</p>
 </div>
 
 <!-- Skills Section -->
@@ -32,6 +32,7 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png?f=webp" alt="jQuery" width="50" height="50">
     <img src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png" alt=".NET" width="50" height="50">
     <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" alt="Typescript" width="50" height="50">
   </div>
 </div>
 
@@ -54,11 +55,26 @@
 </div>
 
 
-<!-- Repositories Section -->
+<!-- University Repositories Section -->
 <div align="center">
-  <h2>Repositories</h2>
+  <h2>University Projects</h2>
   <div>
     <a href="https://github.com/lucamodic/batallaspokemons"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucamodic&repo=batallaspokemons" alt="batallaspokemons"></a>
     <a href="https://github.com/lucamodic/TP-FINAL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucamodic&repo=TP-FINAL" alt="TP-FINAL"></a>
   </div>
 </div>
+
+<!-- Personal Learning Repositories Section -->
+<div align="center">
+  <h2>Personal Learning Repositories</h2>
+  <div>
+    <a href="https://github.com/lucamodic/Chat-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucamodic&repo=Chat-app" alt="Chat-app"></a>
+    <a href="https://github.com/lucamodic/Task-manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucamodic&repo=Task-manager" alt="Task-manager"></a>
+    <a href="https://github.com/lucamodic/Weather-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucamodic&repo=Weather-App" alt="Weather-App"></a>
+    <a href="https://github.com/lucamodic/Notes-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucamodic&repo=Notes-App" alt="Notes-App"></a>
+    <a href="https://github.com/lucamodic/spotify-data"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucamodic&repo=spotify-data" alt="spotify-data"></a>
+    <a href="https://github.com/lucamodic/shukan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lucamodic&repo=shukan" alt="shukan"></a>
+  </div>
+</div>
+
+
