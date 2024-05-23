@@ -20,7 +20,7 @@
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" alt="Java" width="50" height="50">
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" alt="PHP" width="50" height="50">
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" alt="C#" width="50" height="50">
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/nodejs/nodejs.png" alt="Node.js" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" width="50" height="50">
   </div>
 </div>
 
@@ -29,8 +29,8 @@
   <h3>Frameworks & Libraries</h3>
   <div>
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Framework" width="50" height="50">
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/jquery/jquery.png" alt="jQuery" width="50" height="50">
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/dotnet/dotnet.png" alt=".NET" width="50" height="50">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-10-1175155.png" alt="jQuery" width="50" height="50">
+    <img src="https://seeklogo.com/images/M/microsoft-net-logo-631EFE744A-seeklogo.com.png" alt=".NET" width="50" height="50">
     <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="50" height="50">
   </div>
 </div>
