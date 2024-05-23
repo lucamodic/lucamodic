@@ -10,6 +10,11 @@
   <h2>Skills</h2>
 </div>
 
+<!-- Languages and Tools Section -->
+<div align="center">
+  <h2>Languages and Tools</h2>
+</div>
+
 <!-- Programming Languages Section -->
 <div align="center">
   <h3>Programming Languages</h3>
@@ -21,6 +26,7 @@
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" alt="PHP" width="50" height="50">
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" alt="C#" width="50" height="50">
     <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" alt="Typescript" width="50" height="50">
   </div>
 </div>
 
@@ -32,7 +38,6 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png?f=webp" alt="jQuery" width="50" height="50">
     <img src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png" alt=".NET" width="50" height="50">
     <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="50" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" alt="Typescript" width="50" height="50">
   </div>
 </div>
 
