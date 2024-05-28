@@ -27,6 +27,7 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" alt="MongoDB" width="40" height="40">
     <img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png" alt="PostgreSQL" width="40" height="40">
     <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" alt="AWS" width="40" height="40">
+    <img src="https://user-images.githubusercontent.com/2752551/30405068-a7733b34-989e-11e7-8f66-7badaf1373ed.png" alt="SLS" width="40" height="40">
   </div>
 </div>
 
